@@ -2,3 +2,5 @@ just published our local git repo  to remote GitHub.com repostry few things happ
 1. auttomatically create new remote repo
 2. made the connection with local git repo
 3. added all commits to remote repo
+
+added more note 
