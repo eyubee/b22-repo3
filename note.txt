@@ -3,4 +3,6 @@ just published our local git repo  to remote GitHub.com repostry few things happ
 2. made the connection with local git repo
 3. added all commits to remote repo
 
+using undo before pushing a code after commit
+
 
